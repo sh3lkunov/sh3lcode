@@ -1,0 +1,259 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+
+.middle {
+	margin: 0 auto;
+	width: 49%;
+}
+
+p {
+	font-size: 11px;
+}
+/* Header */
+
+.nav {
+	background-color: #DEDEDE;
+	text-align:center;
+	height: 27px;
+}
+
+.nav ul li {
+	padding: 3px;
+	font-size: 13px;
+	list-style-type: none;
+	display: inline;
+}
+
+.nav a {
+	color: #000000;
+}
+
+.head_2 {
+	display: flex;
+	justify-content: space-between;
+}
+
+.left {
+	padding-top: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.description {
+	text-align: center;
+	padding: 29px 0px 0px 13px;
+}
+
+.description h3 {
+	font-size: 17px;
+}
+
+.mid {
+	padding: 37px 0px 0px 28px;
+	text-align: center;
+}
+
+.mid h3 {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.right {
+	padding: 35px 0px 0px 15px;
+}
+
+.text {
+	text-align: center;
+	line-height: 18px;
+}
+
+.text a {
+	font-size: 13px;
+	color: black;
+}
+
+.button {
+	padding: 15px 0px 0px 0px;
+	display: flex;
+}
+
+.button input {
+	border: 1px solid #DEDEDE;
+	border-radius: 3px;
+	padding: 2px;
+	width: 220px;
+}
+
+button {
+	padding: 2px 7px 0px 7px;
+}	
+
+hr {
+	margin: 0px;
+}
+
+.midp p {
+	margin: 0px;
+}
+/* Header */
+
+/* Section */
+
+.sec2 p {
+	padding: 13px 0px 10px 0px;
+}
+
+.sec {
+	display: flex;
+	justify-content: space-between;
+}
+
+
+.product h3 {
+	padding: 5px 0px 0px 0px;
+	font-size: 17px;
+}
+
+.catalogue h3 {
+	padding: 5px 140px 0px 0px;
+}
+
+.catalogue2 {
+	padding: 9px 0px 0px 3px;
+	line-height: 8px;
+}
+
+.catalogue2 a {
+	color: 1d334a;
+	font-size: 12px;
+}
+
+.catalogue3 {
+	padding: 9px 0px 0px 12px;
+	line-height: 12px;
+}
+
+.catalogue3 a {
+	color: green;
+	font-size: 12px;
+}
+
+.catalogue4 {
+	padding: 9px 0px 0px 3px;
+	line-height: 12px;
+}
+
+.catalogue4 a{
+	color: 1d334a;
+	font-size: 12px;
+}
+.sections {
+	display: flex;
+	justify-content: space-between;
+}
+
+.section1 p {
+	font-size: 17px;
+	font-weight: bold;
+	padding: 15px 0px 10px 100px;
+}
+
+.section img {
+	border: 1px solid black;
+	padding: 0px 0px 20px 0px;
+}
+
+.com p {
+	margin-top: 5px;
+	font-weight: 900;
+	padding: 0px;
+	font-size: 12px;
+}
+
+.opis {
+	padding: 10px 0px 0px 0px;
+	font-size: 11px;
+	line-height: 13px;
+}
+
+.rekom p {
+	margin-top: 15px;
+	font-weight: 900;
+	padding: 0px;
+	font-size: 12px;
+}
+
+.ssilki {
+	line-height: 9px;
+	padding-top: 20px;
+}
+
+.ssilki a {
+	color: blue;
+	font-size: 10px;
+}
+
+.section22 {
+	margin-top: 8px;
+	text-align: center;
+	width: 164px;
+	height: 30px;
+	background-color: #F8D04C;
+	line-height: 29px;
+}
+
+.section22 a {
+	vertical-align: middle;
+	color: black;
+}
+
+.all {
+	padding: 10px 0px 0px 10px;
+	font-size: 11px;
+}
+
+.op {
+	padding: 57px 0px 0px 10px;
+	font-size: 12px;
+}
+
+.optext {
+	padding: 12px 0px 0px 10px;
+	font-size: 11px;
+	margin-bottom: 15px;
+}
+
+h2 {
+	margin-top: 10px;
+	font-size: 18px;
+}
+
+.model {
+	margin-top: 15px;
+}
+
+.model p {
+	font-size: 16px;
+}
+
+.ned {
+	margin-top: 15px;
+	margin-bottom: 13px;
+}
+
+.ned p {
+	font-size: 16px;
+}
+
+.logos {
+	margin-left: 49px;
+	margin-top: 5px;
+}
+
+.logos img {
+	padding: 2px;
+	vertical-align: middle;
+}
